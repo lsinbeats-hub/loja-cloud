@@ -1,0 +1,6 @@
+{
+  "name": "CLOUD — Viva Diferente",
+  "description": "Loja oficial de moda, sneakers e streetwear CLOUD. Descubra lançamentos exclusivos, vestuário urbano e os sneakers mais desejados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
